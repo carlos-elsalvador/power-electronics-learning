@@ -1,18 +1,16 @@
 # Power Electronics Learning
 
-Educational notebooks and circuit simulations for learning the fundamental concepts of power electronics using Python, Jupyter/Google Colab and ngspice.
+Este proyecto contiene un conjunto de Notebooks diseñados para el aprendizaje de conceptos de electrónica de potencia usando Python, Jupyter/Google Colab y ngspice. El proyecto combina 3 enfoques complementarios, a saber:
 
-The project combines three complementary approaches:
+* **Teoría y análisis de ecuaciones**
+* **Análisis numérico usando Python**
+* **Simulación de circuitos usando ngspice**
 
-* **Theory and analytical equations**
-* **Numerical analysis using Python**
-* **Circuit simulation using ngspice**
-
-The objective is to progressively connect mathematical models with the behavior of real switching circuits.
+El objetivo es conectar de manera progresiva los fundamentos teóricos y el comportamiento real de circuitos en electrónica de potencia.
 
 ---
 
-## Repository Structure
+## Estructura del repositorio
 
 ```text
 power-electronics-learning/
@@ -25,120 +23,62 @@ power-electronics-learning/
 
 ---
 
-# Bloque 1 — Fundamentos
-Este bloque presenta los conceptos matemáticos, físicos, informáticos y simulación necesarios para el análisis de circuitos electrónicos de potencia.
+# Bloque 1 — Fundamentos básicos de Electróncia de Potencia
+Este bloque presenta los conceptos matemáticos, físicos, informáticos y simulación de circuitos necesarios para el análisis de circuitos electrónicos de potencia.
 
-## Topic 1 — RMS Value and Average Power
+## Tema 1 — Introducción a la Electrónica de Potencia
 
-Topics include:
+## Tema 2 — Principios básicos y fundamentos matemáticos
 
-* Average value of periodic signals
-* RMS value
-* Instantaneous power
-* Average power
-* Sinusoidal waveforms
-* Bipolar and unipolar square waves
-* Numerical calculation using Python
-* Validation using ngspice
+## Tema 3 — Diodos, transistores y otros dispositivos para circuitos de potencia
 
-## Topic 2 — Fourier Series
-
-Topics include:
-
-* Orthogonality of sinusoidal functions
-* Fourier series representation
-* Fourier coefficients
-* Harmonic components
-* Square-wave approximation
-* Gibbs phenomenon
-* Symmetry properties
-* Multi-level waveforms
-* Harmonic generation and visualization using ngspice and Python
-
-## Topic 4 — Energy Storage Elements and Switches
-
-Topics include:
-
-* Capacitors in power electronics
-* Inductors in power electronics
-* Duality between capacitors and inductors
-* Energy storage
-* DC behavior
-* Rectangular voltage applied to an inductor
-* Periodic steady state
-* RL circuit charging and discharging
-* Ideal switches
-* Freewheeling diodes
-* MOSFETs as switching devices
-* Comparison between analytical solutions, Python and ngspice
+## Tema 4 — Análisis de circuitos de electrónica de potencia
 
 ---
 
-# Block 2 — DC-DC Converters
+# Bloque 2 — Convertidores DC/DC no aislados
 
-This block will introduce the operation and analysis of fundamental non-isolated DC-DC converters.
+## Tema 5 — Convertidor reductor (Buck)
 
-Planned topics include:
+## Tema 6 — Convertidor elevador (Boost)
 
-* Buck converter
-* Boost converter
-* Buck-Boost converter
-* Continuous conduction mode
-* Discontinuous conduction mode
-* Inductor current ripple
-* Output voltage ripple
-* Switching losses and non-ideal effects
+## Tema 7 — Convertidor elevador/reductor (Buck-Boost)
+
+## Tema 8 — Convertidor elevador/reductor (Cuck).
 
 ---
 
-# Block 3 — AC-DC Converters
+# Block 3 — Convertidores AC/DC
 
-This block will cover the conversion of AC electrical energy into DC electrical energy.
+## Tema 9 — Circuitos rectificadores no controlados
 
-Planned topics include:
-
-* Diode rectifiers
-* Half-wave rectifiers
-* Full-wave rectifiers
-* Bridge rectifiers
-* Capacitive and inductive filters
-* Controlled rectifiers
+## Tema 10 — Circuitos rectificadores controlados
 
 ---
 
-# Block 4 — Isolated DC-DC Converters
+# Block 4 — Convertidores DC/DC aislados
 
-This block will introduce isolated power conversion and transformer-based switching converters.
+## Tema 11 — Convertidor Flyback.
 
-Planned topics include:
-
-* Transformer fundamentals
-* Flyback converter
-* Forward converter
-* Push-pull converter
-* Half-bridge converter
-* Full-bridge converter
 
 ---
 
-# Methodology
+Cada tópico contiene, hasta donde sea posible, la misma secuencia de aprendizaje:
 
-Each topic follows, whenever possible, the same learning sequence:
+1. **Descripción Física**
+2. **Modelo matemático**
+3. **Solución analítica**
+4. **Implementación Python**
+5. **Simulación ngspice**
+6. **Comparación y validación**
 
-1. **Physical concept**
-2. **Mathematical model**
-3. **Analytical solution**
-4. **Python implementation**
-5. **ngspice simulation**
-6. **Comparison and validation**
-
-The goal is not only to obtain numerical results, but also to understand the physical behavior of power electronic circuits.
+La meta no es únicamente obtener resultados numéricos, sino también comprender el comportamiento físico de los circuitos en electrónica de potencia.
 
 ---
 
-# Tools
+# Herramientas
 
-The main tools used in this repository are:
+Las herramientas principales a utilizar en este repositorio son:
 
 * Python
 * NumPy
@@ -150,8 +90,7 @@ The main tools used in this repository are:
 
 ---
 
-# Status
-
+# Disclaimer
 The repository is under continuous development. New notebooks, simulations and examples are progressively added to each learning block.
 
 
