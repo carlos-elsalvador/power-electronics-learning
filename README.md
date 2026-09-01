@@ -25,9 +25,8 @@ power-electronics-learning/
 
 ---
 
-# Block 1 — Fundamentals
-
-This block introduces the mathematical and physical foundations required for the analysis of power electronic circuits.
+# Bloque 1 — Fundamentos
+Este bloque presenta los conceptos matemáticos, físicos, informáticos y simulación necesarios para el análisis de circuitos electrónicos de potencia.
 
 ## Topic 1 — RMS Value and Average Power
 
