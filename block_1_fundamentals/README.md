@@ -1,8 +1,10 @@
 # Block 1 — Fundamentals
 
-## Topic 1 — RMS Value and Average Power
+## Topic 1 — Introducción a la electrónica de Potencia
+## Topic 2 — Principios básicos y fundamentos matemáticos
+## Topic 3 — Diodos, transistores y otros dispositivos
+## Topic 4 — Análisis de circuitos de electrónica de potencia
 
-This topic introduces the concepts of average value, RMS value and average power for periodic electrical signals.
 
 ## Contents
 
@@ -32,13 +34,3 @@ B1_T1_rms.ipynb
 ngspice/
 figures/
 ```
-
-## Objectives
-
-After completing this topic, the student should be able to:
-
-* Calculate the average value of a periodic waveform.
-* Calculate the RMS value numerically.
-* Compare numerical and theoretical results.
-* Relate RMS values to average power dissipation.
-* Reproduce selected examples using ngspice.
