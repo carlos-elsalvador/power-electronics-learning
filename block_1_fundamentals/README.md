@@ -1,11 +1,11 @@
-# Block 1 — Fundamentos básicos de Electrónica de Potencia
+# Bloque 1 — Fundamentos básicos de Electrónica de Potencia
 
 ## Topic 1 — Introducción a la electrónica de Potencia
 ## Topic 2 — Principios básicos y fundamentos matemáticos
 ## Topic 3 — Diodos, transistores y otros dispositivos
 ## Topic 4 — Análisis de circuitos de electrónica de potencia
 
-## Tools
+## Herramientas
 
 Los temas se desarrollan con las siguientes herramientas:
 
