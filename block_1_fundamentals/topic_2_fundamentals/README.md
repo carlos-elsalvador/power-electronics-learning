@@ -4,15 +4,7 @@ Este topic introduce herramientas matemáticas y conceptos básicos necesarios p
 
 ## Contenidos
 
-### 2.1 — Series de Fourier
-
-Representación de señales periódicas mediante series de Fourier y análisis de sus componentes armónicas.
-
-- `topic_2_fourier/B1_T2_SF.ipynb`
-- Ejemplos y simulaciones con Python y ngspice.
-- Figuras de apoyo en `topic_2_fourier/figures/`.
-
-### 2.2 — Valor RMS y valor medio
+### 2.1 — Valor RMS y valor medio
 
 Estudio del valor eficaz (RMS), valor medio, potencia media y conceptos relacionados con el factor de potencia.
 
@@ -21,6 +13,16 @@ Estudio del valor eficaz (RMS), valor medio, potencia media y conceptos relacion
 - Figuras de apoyo en `topic_2_rms_and_average/figures/`.
 
 ![Background del factor de potencia](topic_2_rms_and_average/figures/1_power_factor_background.jpeg)
+
+
+### 2.2 — Series de Fourier
+
+Representación de señales periódicas mediante series de Fourier y análisis de sus componentes armónicas.
+
+- `topic_2_fourier/B1_T2_SF.ipynb`
+- Ejemplos y simulaciones con Python y ngspice.
+- Figuras de apoyo en `topic_2_fourier/figures/`.
+
 
 ## Herramientas
 

@@ -8,13 +8,21 @@ Este bloque introduce los conceptos fundamentales necesarios para el estudio y a
 
 Introducción a los conceptos generales de la electrónica de potencia y a los principios que se utilizarán en los temas posteriores.
 
-> **Nota:** El contenido de este topic todavía no está incorporado en la estructura actual del repositorio.
+> **Nota:** El contenido de este topic todavía se desarrolla con un caso de estudio en la clase.
 
 ### Topic 2 — Principios básicos y fundamentos matemáticos
 
 Este topic reúne herramientas matemáticas básicas utilizadas en el análisis de señales y circuitos de electrónica de potencia.
 
-#### Topic 2.1 — Series de Fourier
+#### Topic 2.1 — Valor RMS y valor medio
+
+Introducción al valor eficaz (RMS), valor medio y conceptos relacionados con potencia y factor de potencia.
+
+- Cuaderno: `B1_T2_rms.ipynb`
+- Figuras de apoyo
+- Ejemplo de señal cuadrada bipolar en ngspice
+
+#### Topic 2.2 — Series de Fourier
 
 Estudio de la representación de señales periódicas mediante series de Fourier y análisis de sus componentes armónicas.
 
@@ -22,13 +30,6 @@ Estudio de la representación de señales periódicas mediante series de Fourier
 - Figuras de apoyo
 - Simulaciones ngspice de señales sinusoidales y armónicas
 
-#### Topic 2.2 — Valor RMS y valor medio
-
-Introducción al valor eficaz (RMS), valor medio y conceptos relacionados con potencia y factor de potencia.
-
-- Cuaderno: `B1_T2_rms.ipynb`
-- Figuras de apoyo
-- Ejemplo de señal cuadrada bipolar en ngspice
 
 ### Topic 3 — Diodos, transistores y otros dispositivos
 
